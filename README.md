@@ -13,6 +13,9 @@ Fund_analysis
 #### risk_free_r: 无风险收益，默认为0<br>
 ### output:<br>
 >计算结果会输出到Excel中，保存路径为当前工作路径下<br>
+>结果展示：
+![](https://github.com/Ballery-Wang/Fund_analysis/blob/master/sheet1.png)
+![](https://github.com/Ballery-Wang/Fund_analysis/blob/master/sheet2.png)
 ### 例子:<br>
 >model = Fund_analysis(funddata=fund1,fundname='九坤量化2号',benchmark='881001.WI')<br>
 >model.cal_score()<br>
