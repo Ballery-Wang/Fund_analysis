@@ -16,3 +16,8 @@ output:
     model = Fund_analysis(funddata=fund1,fundname='九坤量化2号',benchmark='881001.WI')
     model.cal_score()
     model.save_output()
+
+
+如果您发现有任何问题可以联系我们：
+    王一睿 18101389636
+    付饶   17600293824
